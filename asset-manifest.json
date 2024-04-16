@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Potr-Pots-landing/static/css/main.decf5681.css",
-    "main.js": "/Potr-Pots-landing/static/js/main.a5b1fcfa.js",
+    "main.css": "/Potr-Pots-landing/static/css/main.5c8b8cc0.css",
+    "main.js": "/Potr-Pots-landing/static/js/main.99d4e494.js",
     "static/js/453.815728ae.chunk.js": "/Potr-Pots-landing/static/js/453.815728ae.chunk.js",
     "static/media/benefits__img.png": "/Potr-Pots-landing/static/media/benefits__img.fd50bd0b348a86dc0c71.png",
     "static/media/for-whom-img--2.png": "/Potr-Pots-landing/static/media/for-whom-img--2.3c0e3cf1a0f4e78b5f66.png",
@@ -30,12 +30,12 @@
     "static/media/arrow-down--turqoise.svg": "/Potr-Pots-landing/static/media/arrow-down--turqoise.43ff3d3b9e2e9efd2fc6.svg",
     "static/media/for-whom-counter--1.svg": "/Potr-Pots-landing/static/media/for-whom-counter--1.7b1f4a7efb4890be2e69.svg",
     "static/media/menu--closer.svg": "/Potr-Pots-landing/static/media/menu--closer.2a3726c18b0604d2c7e5.svg",
-    "main.decf5681.css.map": "/Potr-Pots-landing/static/css/main.decf5681.css.map",
-    "main.a5b1fcfa.js.map": "/Potr-Pots-landing/static/js/main.a5b1fcfa.js.map",
+    "main.5c8b8cc0.css.map": "/Potr-Pots-landing/static/css/main.5c8b8cc0.css.map",
+    "main.99d4e494.js.map": "/Potr-Pots-landing/static/js/main.99d4e494.js.map",
     "453.815728ae.chunk.js.map": "/Potr-Pots-landing/static/js/453.815728ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.decf5681.css",
-    "static/js/main.a5b1fcfa.js"
+    "static/css/main.5c8b8cc0.css",
+    "static/js/main.99d4e494.js"
   ]
 }
