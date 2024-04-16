@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Potr-Pots-landing/static/css/main.decf5681.css",
+    "main.js": "/Potr-Pots-landing/static/js/main.a5b1fcfa.js",
+    "static/js/453.815728ae.chunk.js": "/Potr-Pots-landing/static/js/453.815728ae.chunk.js",
+    "static/media/benefits__img.png": "/Potr-Pots-landing/static/media/benefits__img.fd50bd0b348a86dc0c71.png",
+    "static/media/for-whom-img--2.png": "/Potr-Pots-landing/static/media/for-whom-img--2.3c0e3cf1a0f4e78b5f66.png",
+    "static/media/features--2.png": "/Potr-Pots-landing/static/media/features--2.58d383a93c370a9cdcd9.png",
+    "static/media/features--3.png": "/Potr-Pots-landing/static/media/features--3.0a687f6e587671578339.png",
+    "static/media/materials-bg.png": "/Potr-Pots-landing/static/media/materials-bg.3b01d22ddb8d933d20ac.png",
+    "static/media/potr-team--bg.png": "/Potr-Pots-landing/static/media/potr-team--bg.2a9e4b856f3b65b831a7.png",
+    "static/media/for-whom-img--3.png": "/Potr-Pots-landing/static/media/for-whom-img--3.f5adeb6cd3e728f3c78b.png",
+    "static/media/for-whom-img--1.png": "/Potr-Pots-landing/static/media/for-whom-img--1.70d01070b2fc41fc820b.png",
+    "static/media/header__bg--desktop.png": "/Potr-Pots-landing/static/media/header__bg--desktop.ca3820cc585cb80437c8.png",
+    "static/media/header-bg.png": "/Potr-Pots-landing/static/media/header-bg.7098925302546d5bc9f2.png",
+    "static/media/features--1.png": "/Potr-Pots-landing/static/media/features--1.e78ad7979455046fb049.png",
+    "static/media/potr-size.png": "/Potr-Pots-landing/static/media/potr-size.5a288e324242ed1cd3bd.png",
+    "static/media/rectangle-header.png": "/Potr-Pots-landing/static/media/rectangle-header.3689e7ddf2c98bb05fcb.png",
+    "static/media/rectangle-potr-team.png": "/Potr-Pots-landing/static/media/rectangle-potr-team.8aba8d930306ac3b6c44.png",
+    "static/media/menu--opener.svg": "/Potr-Pots-landing/static/media/menu--opener.4aebabb444a05c671273.svg",
+    "static/media/nav--cart.svg": "/Potr-Pots-landing/static/media/nav--cart.387f10f01cf36377747f.svg",
+    "static/media/footer--2.svg": "/Potr-Pots-landing/static/media/footer--2.67606ff1923b205a70fb.svg",
+    "static/media/footer--1.svg": "/Potr-Pots-landing/static/media/footer--1.32f5e6387f07147fef4e.svg",
+    "static/media/for-whom-counter--3.svg": "/Potr-Pots-landing/static/media/for-whom-counter--3.b9667a2915c0b7f32ac7.svg",
+    "static/media/for-whom-counter--2.svg": "/Potr-Pots-landing/static/media/for-whom-counter--2.7e33669db3e473e71f47.svg",
+    "index.html": "/Potr-Pots-landing/index.html",
+    "static/media/footer--3.svg": "/Potr-Pots-landing/static/media/footer--3.7004a81da317c84b2455.svg",
+    "static/media/arrow-right--white.svg": "/Potr-Pots-landing/static/media/arrow-right--white.f975d535ffaa8fd48d9c.svg",
+    "static/media/arrow-right--black.svg": "/Potr-Pots-landing/static/media/arrow-right--black.5f822354f92bbc5a9b13.svg",
+    "static/media/arrow-down--turqoise.svg": "/Potr-Pots-landing/static/media/arrow-down--turqoise.43ff3d3b9e2e9efd2fc6.svg",
+    "static/media/for-whom-counter--1.svg": "/Potr-Pots-landing/static/media/for-whom-counter--1.7b1f4a7efb4890be2e69.svg",
+    "static/media/menu--closer.svg": "/Potr-Pots-landing/static/media/menu--closer.2a3726c18b0604d2c7e5.svg",
+    "main.decf5681.css.map": "/Potr-Pots-landing/static/css/main.decf5681.css.map",
+    "main.a5b1fcfa.js.map": "/Potr-Pots-landing/static/js/main.a5b1fcfa.js.map",
+    "453.815728ae.chunk.js.map": "/Potr-Pots-landing/static/js/453.815728ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decf5681.css",
+    "static/js/main.a5b1fcfa.js"
+  ]
+}
