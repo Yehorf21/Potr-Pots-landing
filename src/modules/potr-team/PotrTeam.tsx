@@ -5,6 +5,8 @@ export const PotrTeam = () => {
     <section className="potr-team" id="about-us">
       <h2 className="potr-team__title">Meet the POTR team!</h2>
 
+      <div className="potr-team__rectangle" />
+
       <h3 className="potr-team__name potr-team__name--top outlined">Martin</h3>
 
       <div className="potr-team__card">

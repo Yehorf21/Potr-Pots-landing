@@ -2,67 +2,43 @@
   position: relative;
 
   &__title {
-    position: relative;
     margin-block: 0 25px;
 
     @include textType(58px, 69.6px, 0.155em);
     font-weight: 300;
 
-    &::after {
-      content: "";
-
-      // positioning values are approximate
-      position: absolute;
-      left: -30px;
-      bottom: -120vw;
-
-      width: 400px;
-      height: 300px;
-      z-index: -1;
-
-      background-image: url(../../icons/rectangle-potr-team.png);
-      background-size: contain;
-      background-repeat: no-repeat;
-    }
-
-    // to better reflect the position of the rectangle on smaller devices
-    @media (min-width: 320px) {
-      &::after {
-        bottom: -210vw;
-      }
-    }
-
-    @media (min-width: 400px) {
-      &::after {
-        bottom: -165vw;
-      }
-    }
-
-    @media (min-width: 500px) {
-      &::after {
-        bottom: -145vw;
-      }
-    }
-
     @include on-tablet {
       margin-bottom: 0;
+    }
+  }
 
-      &::after {
-        height: 200px;
+  &__rectangle {
+    position: absolute;
 
-        left: -34px;
-        bottom: -300px;
-      }
+    left: -30px;
+    bottom: -95px;
+
+    width: 400px;
+    height: 300px;
+    z-index: -1;
+
+    background-image: url(../../icons/rectangle-potr-team.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    @include on-tablet {
+      height: 200px;
+
+      left: -34px;
+      top: 200px;
     }
 
     @include on-desktop {
-      &::after {
-        width: 310px;
-        height: 435px;
+      width: 310px;
+      height: 435px;
 
-        left: -135px;
-        bottom: -525px;
-      }
+      left: -135px;
+      bottom: -525px;
     }
   }
 
