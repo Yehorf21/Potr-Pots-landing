@@ -51,7 +51,6 @@ export const Questions = () => {
             value={input.name}
             onChange={(e) => handleChange(e, 'name')}
           />
-
           <input
             type="email"
             className="questions__input"
@@ -59,14 +58,12 @@ export const Questions = () => {
             value={input.email}
             onChange={(e) => handleChange(e, 'email')}
           />
-
           <textarea
             className="questions__input questions__input--textarea"
             placeholder="Message"
             value={input.message}
             onChange={(e) => handleChange(e, 'message')}
           />
-
           <button
             className="questions__submit button button--turqoise"
             disabled={isButtonDisabled}
@@ -85,7 +82,12 @@ export const Questions = () => {
           <div className="questions__contact">
             <h3 className="questions__contact-title">{contact.title}</h3>
 
-            <a href={contact.href} className="questions__contact-link">
+            <a
+              href={contact.href}
+              className="questions__contact-link"
+              target="_blank"
+              rel="noreferrer"
+            >
               {contact.description}
             </a>
           </div>

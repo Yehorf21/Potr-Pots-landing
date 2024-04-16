@@ -14,7 +14,7 @@
       // positioning values are approximate
       position: absolute;
       left: -30px;
-      bottom: -600px;
+      bottom: -120vw;
 
       width: 400px;
       height: 300px;
@@ -23,6 +23,25 @@
       background-image: url(../../icons/rectangle-potr-team.png);
       background-size: contain;
       background-repeat: no-repeat;
+    }
+
+    // to better reflect the position of the rectangle on smaller devices
+    @media (min-width: 320px) {
+      &::after {
+        bottom: -210vw;
+      }
+    }
+
+    @media (min-width: 400px) {
+      &::after {
+        bottom: -165vw;
+      }
+    }
+
+    @media (min-width: 500px) {
+      &::after {
+        bottom: -145vw;
+      }
     }
 
     @include on-tablet {
@@ -137,7 +156,6 @@
     @include on-mobile {
       // fot better look on bigger screens
       max-width: 450px;
-      align-self: center;
     }
 
     @include on-tablet {
