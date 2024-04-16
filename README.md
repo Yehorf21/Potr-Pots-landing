@@ -24,4 +24,4 @@ Overall, it was an enjoyable experience, and I'm looking forward to my next proj
 
 I wish you a pleasant experience visiting the landing:
 
-[DEMO]()
+[DEMO](https://yehorf21.github.io/Potr-Pots-landing/)
