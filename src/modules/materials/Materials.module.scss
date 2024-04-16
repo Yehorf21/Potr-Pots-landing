@@ -19,10 +19,11 @@
     @include on-tablet {
       @include textType(80px, 96px, 0.155em);
       font-weight: 400;
+      min-width: 550px;
 
       // on tablets the title needs to have the same height for the text next to it to be shown properly
       @media (max-width: 1200px) {
-        max-width: 532px;
+        max-width: 550px;
       }
     }
 
