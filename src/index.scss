@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: $mainFontFamily;
+  scroll-behavior: smooth;
+
+  color: $main;
+
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  margin: 0;
+  max-width: 1440px;
+  overflow-x: hidden;
+
+  background-color: $greyLight;
+
+  padding: 20px 30px 30px;
+
+  @include on-tablet {
+    padding: 20px 34px 100px;
+  }
+
+  @include on-desktop {
+    padding: 20px 135px 64px;
+  }
+
+
+}
+
+main > section {
+  margin-top: 110px;
+
+  @include on-desktop {
+    margin-top: 150px;
+  }
+}
